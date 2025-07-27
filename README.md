@@ -1,4 +1,5 @@
-## Hi there 👋
+## TL;DR 
+Software Engineer in Japan
 
 <!--
 **zakzackr/zakzackr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
