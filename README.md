@@ -1,1 +1,1 @@
-**Hello! Konnichiwa** 👋
+**Hi! Konnichiwa** 👋
